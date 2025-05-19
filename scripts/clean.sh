@@ -1,6 +1,6 @@
 #!/usr/bin/zsh
 
-cd ..
+cd generated
 rm *.class
 rm *.interp
 rm *.java
